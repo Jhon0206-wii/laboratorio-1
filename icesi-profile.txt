@@ -1,0 +1,3 @@
+Nombres: Jhon
+Apellido: Aguilar
+Fecha de nacimiento: 2006/04/02
